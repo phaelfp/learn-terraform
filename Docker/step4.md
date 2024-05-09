@@ -11,7 +11,7 @@ On this page:
 You now have enough Terraform knowledge to create useful configurations, but the examples so far have used hard-coded values. Terraform configurations can include variables to make your configuration more dynamic and flexible.
 
 ## Prerequisites
-Have completed the previous tutorials or download the clone repository and go to the branch [docker/step-3](https://github.com/phaelfp/learn-terraform/tree/docker/step-3)
+Have completed the previous tutorials or download the clone repository and go to the branch [docker/step-3](https://github.com/phaelfp/learn-terraform/tree/docker/step-2) and run the `terraform init` and `terraform apply` command
 
 
 ## Set the container name with a variable
