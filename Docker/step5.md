@@ -14,7 +14,7 @@ In the previous tutorial, you used an input variable to parameterize your Terraf
 If you have not yet completed the [Define Input Variables](step4.md) tutorial, do so before following this one.
 
 ## Initial configuration
-Have completed the previous tutorials or download the clone repository and go to the branch [docker/step-4](https://github.com/phaelfp/learn-terraform/tree/docker/step-4)
+Have completed the previous tutorials or download the clone repository and go to the branch [docker/step-4](https://github.com/phaelfp/learn-terraform/tree/docker/step-4) and run the `terraform init` and `terraform apply` command
 
 
 ## Output Docker container configuration
